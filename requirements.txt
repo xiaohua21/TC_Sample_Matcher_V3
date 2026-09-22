@@ -1,0 +1,4 @@
+# TC Sample Matcher V3 依赖
+PyQt5>=5.15.0
+openpyxl>=3.0.0
+ezdxf>=1.0.0
